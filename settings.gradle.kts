@@ -19,6 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
+rootProject.name = "GPS"
+include(":app")
+=======
 rootProject.name = "Camara"
 include(":app")
  
+>>>>>>> d7f23ad0bc9aa7968c4d4aafc62959c295d16f9e

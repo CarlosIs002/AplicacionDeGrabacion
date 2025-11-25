@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
+    <style name="Theme.GPS" parent="android:Theme.Material.Light.NoActionBar" />
+=======
     <style name="Theme.Camara" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> d7f23ad0bc9aa7968c4d4aafc62959c295d16f9e
 </resources>
